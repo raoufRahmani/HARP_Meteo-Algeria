@@ -1,0 +1,4 @@
+ECCODES_DIR=/home/chikhi/libs/eccodes
+ECCODES_INCLUDE=/home/chikhi/libs/eccode/include
+ECCODES_LIB=/home/chikhi/libs/eccodes/lib
+
